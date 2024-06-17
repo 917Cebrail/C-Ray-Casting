@@ -1,0 +1,7 @@
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\bin\Debug\3D_Ray_Casting.exe.config
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\bin\Debug\3D_Ray_Casting.exe
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\bin\Debug\3D_Ray_Casting.pdb
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\obj\Debug\3D_Ray_Casting.csprojAssemblyReference.cache
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\obj\Debug\3D_Ray_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\obj\Debug\3D_Ray_Casting.exe
+C:\Users\Cebrail\source\repos\3D_Ray_Casting\3D_Ray_Casting\obj\Debug\3D_Ray_Casting.pdb
